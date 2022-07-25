@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on delivering a project to help Human Rights First, a non-profit, get better results for refugee Asylum cases
+- 🔭 I’m currently working on delivering a multithreaded ETL pipeline from multiple GET requests to SQL tables and noSQL endpoints
 - 🌱 I’m currently learning Docker, AWS Elastic Beanstalk, Algorithms
 - 👯 I’m looking to collaborate on data engineering projects in general
 - 🤔 I’m looking for help with good resources for improving containerization, SQL, answering the question, "How do we get the right data in the right place at the right time?"
